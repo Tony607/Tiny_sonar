@@ -1,11 +1,23 @@
-"# Tiny_sonar" 
-DIY a I2C Maxbotic sonar sensor with Tiny 85 and US-020 sonar sensor
- 
-Trig & Echo ->PB3(Pin 3 on Digispark board, 2nd pin on IC)
-SCL ->PB2 (Pin 2 on Digispark board, 7th pin on IC)
-SDA ->PB0 (Pin 0 on Digispark board, 5th pin on IC)
-I2C port on Pixhawk, left to right
-VCC, SCL, SDA, GND
+# Initial page
 
-First, flash the 8MHz bootloader to tiny 85,
-Then upload this sketch using a programmer
+## Getting Super Powers
+
+Becoming a super hero is a fairly straight forward process:
+
+```
+$ give me super-powers
+```
+
+{% hint style="info" %}
+ Super-powers are granted randomly so please submit an issue if you're not happy with yours.
+{% endhint %}
+
+Once you're strong enough, save the world:
+
+```
+// Ain't no code for that yet, sorry
+echo 'You got to trust me on this, I saved the world'
+```
+
+
+
